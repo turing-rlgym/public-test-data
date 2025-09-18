@@ -1,2 +1,3 @@
 # public-test-data
-This repo contains only test data which will be publicly accessed and that will be helpful for verifications of the gym.
+
+This repository contains only public test data, intended to support verification processes for the gym.
